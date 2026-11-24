@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="480" viewBox="0 0 115 480" role="img" aria-labelledby="stew-title stew-desc" lang="ko" xml:lang="ko">
+  <title id="stew-title">K1 찌개 베이스 분말 요리소스 전면</title>
+  <desc id="stew-desc">찌개 베이스 맛의 세로형 스틱 파우치 디자인 시안. 무광 호일, 흰색 K1 워드마크, 아이보리 물결 패턴.</desc>
+  <defs>
+    <clipPath id="stew-cut"><path d="M14 8.4 H101 L102.8 10.4 L103 34.5 C103 39 103.1 44.5 104 52 C104.5 63 104.6 74 104.6 89 V389 C104.6 409 104.4 421 103.5 432 L103 445.5 V469.7 L101 471.6 H14 L12 469.7 V445.5 L11.5 432 C10.6 421 10.4 409 10.4 389 V89 C10.4 74 10.5 63 11 52 C11.9 44.5 12 39 12 34.5 L12.2 10.4 Z"/></clipPath>
+    <linearGradient id="stew-face" x2="1" y2="0">
+      <stop stop-color="#112F27"/><stop offset=".045" stop-color="#244F40"/>
+      <stop offset=".13" stop-color="#577A66"/><stop offset=".26" stop-color="#244F40" stop-opacity="0"/>
+      <stop offset=".69" stop-color="#244F40" stop-opacity="0"/><stop offset=".88" stop-color="#244F40" stop-opacity="0"/>
+      <stop offset="1" stop-color="#112F27"/>
+    </linearGradient>
+    <linearGradient id="stew-seal" x2="0" y2="1">
+      <stop stop-color="#112F27"/><stop offset=".13" stop-color="#577A66"/>
+      <stop offset=".31" stop-color="#244F40"/><stop offset=".71" stop-color="#244F40"/>
+      <stop offset="1" stop-color="#102D23"/>
+    </linearGradient>
+    <linearGradient id="stew-end-shade" x2="0" y2="1">
+      <stop stop-color="#102D23" stop-opacity=".37"/><stop offset=".55" stop-color="#102D23" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#102D23" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="stew-contour" x1="0" x2="0" y1="0" y2="1">
+      <stop stop-color="#F6EAD5" stop-opacity=".98"/><stop offset="1" stop-color="#F6EAD5" stop-opacity=".58"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#stew-cut)">
+    <path d="M14 8.4 H101 L102.8 10.4 L103 34.5 C103 39 103.1 44.5 104 52 C104.5 63 104.6 74 104.6 89 V389 C104.6 409 104.4 421 103.5 432 L103 445.5 V469.7 L101 471.6 H14 L12 469.7 V445.5 L11.5 432 C10.6 421 10.4 409 10.4 389 V89 C10.4 74 10.5 63 11 52 C11.9 44.5 12 39 12 34.5 L12.2 10.4 Z" fill="#244F40"/>
+    <path d="M14 8.4 H101 L102.8 10.4 L103 34.5 C103 39 103.1 44.5 104 52 C104.5 63 104.6 74 104.6 89 V389 C104.6 409 104.4 421 103.5 432 L103 445.5 V469.7 L101 471.6 H14 L12 469.7 V445.5 L11.5 432 C10.6 421 10.4 409 10.4 389 V89 C10.4 74 10.5 63 11 52 C11.9 44.5 12 39 12 34.5 L12.2 10.4 Z" fill="url(#stew-face)" opacity=".56"/>
+    <g fill="none" stroke="url(#stew-contour)" stroke-width=".94" stroke-linecap="round" aria-hidden="true">
+      <path d="M106 290 C78 286 54 297 39 317 C24 337 17 368 -5 383"/>
+      <path d="M106 304 C82 300 61 309 48 327 C34 347 30 379 4 397"/>
+      <path d="M106 318 C87 314 69 322 57 339 C44 358 42 388 16 407"/>
+      <path d="M106 332 C91 329 77 335 67 350 C55 367 54 395 29 413"/>
+      <path d="M106 346 C95 343 85 347 77 361 C67 377 65 403 43 420"/>
+      <path d="M106 360 C99 358 91 362 86 372 C78 387 77 411 57 427"/>
+      <path d="M106 374 C102 373 98 377 95 383 C89 398 89 418 71 432"/>
+    </g>
+    <path d="M104.6 275V438H99.7V275Z" fill="#112F27" opacity=".1"/>
+    <!-- Light pressure folds and shading immediately beside the seal. -->
+    <g id="stew-shoulders">
+      <path d="M10 34H105V73Q79 52 57.5 54Q32 52 10 73Z" fill="url(#stew-end-shade)"/>
+      <path d="M10 34H105V73Q79 52 57.5 54Q32 52 10 73Z" fill="url(#stew-end-shade)" transform="rotate(180 57.5 240)"/>
+      <g fill="none" stroke-linecap="round">
+        <path d="M12.3 40.3 Q29 44 38 43.2 M13 45.1 Q21 45 27.6 49.7 M101.7 40.6 Q88 43.8 80.8 42.8 M102.4 44.7 Q95.7 44.7 88.6 50.5" stroke="#fff" stroke-opacity=".12" stroke-width=".8"/>
+        <path d="M13 50 Q16 56.5 14.8 63.5 M102.5 49.6 Q98.9 56.5 100.5 67" stroke="#102D23" stroke-opacity=".26" stroke-width=".9"/>
+        <path d="M12.3 40.3 Q29 44 38 43.2 M13 45.1 Q21 45 27.6 49.7 M101.7 40.6 Q88 43.8 80.8 42.8 M102.4 44.7 Q95.7 44.7 88.6 50.5" transform="rotate(180 57.5 240)" stroke="#fff" stroke-opacity=".12" stroke-width=".8"/>
+        <path d="M13 50 Q16 56.5 14.8 63.5 M102.5 49.6 Q98.9 56.5 100.5 67" transform="rotate(180 57.5 240)" stroke="#102D23" stroke-opacity=".26" stroke-width=".9"/>
+      </g>
+    </g>
+    <!-- The paired foil crimps are intentionally free of printed information. -->
+    <g id="stew-crimp-top">
+      <path d="M10 8H105V35.4Q57.5 37 10 35.4Z" fill="url(#stew-seal)"/>
+      <path d="M12 11.85H103 M12.3 13.86H103 M12.3 15.87H103 M12.3 17.88H103 M12.3 19.89H103 M12.3 21.90H103 M12.3 23.91H103 M12.3 25.92H103 M12.3 27.93H103 M12.3 29.94H103 M12 31.95H103" fill="none" stroke="#102D23" stroke-opacity=".72" stroke-width=".52"/>
+      <path d="M12 11.85H103 M12.3 13.86H103 M12.3 15.87H103 M12.3 17.88H103 M12.3 19.89H103 M12.3 21.90H103 M12.3 23.91H103 M12.3 25.92H103 M12.3 27.93H103 M12.3 29.94H103 M12 31.95H103" transform="translate(0 -.54)" fill="none" stroke="#fff" stroke-opacity=".27" stroke-width=".42"/>
+      <path d="M12 9.7H103 M12 34.25Q57.5 35.9 103 34.25" fill="none" stroke="#fff" stroke-opacity=".32" stroke-width=".55"/>
+    </g>
+    <use href="#stew-crimp-top" transform="rotate(180 57.5 240)"/>
+    <path d="M14 8.4 H101 L102.8 10.4 L103 34.5 C103 39 103.1 44.5 104 52 C104.5 63 104.6 74 104.6 89 V389 C104.6 409 104.4 421 103.5 432 L103 445.5 V469.7 L101 471.6 H14 L12 469.7 V445.5 L11.5 432 C10.6 421 10.4 409 10.4 389 V89 C10.4 74 10.5 63 11 52 C11.9 44.5 12 39 12 34.5 L12.2 10.4 Z" fill="none" stroke="#112F27" stroke-opacity=".43" stroke-width="1"/>
+    <path d="M13.2 72C12.8 108 13.2 181 13.2 234S12.8 368 13.5 405" fill="none" stroke="#fff" stroke-opacity=".13" stroke-width=".5"/>
+  </g>
+  <g id="stew-identity" text-anchor="middle" fill="#fff" font-family="Pretendard, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, &quot;Noto Sans KR&quot;, sans-serif">
+    <text x="57.5" y="83" font-size="7.6" font-weight="600" letter-spacing=".62" fill="#F6EAD5">분말 요리소스</text>
+    <path id="stew-k1-wordmark" d="M21.8 136.4H34.1V154.6L48.1 136.4H63.2L44.5 159.1L64.6 184.2H49L34.1 164.6V184.2H21.8Z M67.9 145.8L82.1 136.4H93.1V184.2H80.4V150.8L67.9 157.8Z" aria-label="K1"/>
+    <text x="57.5" y="223" font-size="14.1" font-weight="760" letter-spacing="-.38">찌개 베이스</text>
+    <text x="57.5" y="240" font-family="Arial, sans-serif" font-size="8.4" font-weight="700" letter-spacing="1.72" fill="#F6EAD5">STEW</text>
+    <text x="57.5" y="263" font-size="7.2" font-weight="500" letter-spacing=".2" fill="#F6EAD5">1인분용</text>
+  </g>
+</svg>
